@@ -30,12 +30,9 @@ The project demonstrates:
 **Features provided by API:**
 - Country name
 - Capital
-- Region
 - Subregion
 - Population
 - Flag image
-- Currency
-- Language
 
 This API does not require authentication and returns data in JSON format.
 
