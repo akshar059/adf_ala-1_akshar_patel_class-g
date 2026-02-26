@@ -55,13 +55,6 @@ This API does not require authentication and returns data in JSON format.
 - Loading indicator during API call
 - Error handling if API fails
 
-### Advanced Features:
-- `GridView` toggle option
-- Clean architecture using model class
-- Null-safety handling
-- Structured project folder organization
-- Responsive UI
-
 ## 5. Project Structure
 ```text
 lib/
@@ -103,21 +96,14 @@ Null checks are used to prevent runtime errors.
 - Countries data is fetched from the API.
 - The list of countries appears with flag, name, capital, region, and population.
 
-**Search Feature:**
-- User can type country name in search bar.
-- The list filters automatically.
-
 **Error Handling:**
 - If internet is not available, an error message is shown.
 - If API fails, proper error text is displayed.
 
 ## 9. Screenshots Section
-*Add screenshots here after running the app:*
-- Home Screen
-- Search Functionality
-- Grid View Mode
-- Error Screen
-- Loading Indicator
+<img width="1198" height="2539" alt="image" src="https://github.com/user-attachments/assets/a84b1550-cfa6-497a-bea5-319960e97e41" />
+<img width="1198" height="2539" alt="image" src="https://github.com/user-attachments/assets/c22a6422-d55f-4539-af54-770cb35ef95a" />
+
 
 ## 10. How to Run the Project
 1. **Step 1**: Install Flutter SDK.
@@ -138,15 +124,7 @@ Null checks are used to prevent runtime errors.
    flutter run
    ```
 
-## 11. Learning Outcomes
-Through this assignment, I learned:
-- How to integrate REST APIs in Flutter
-- How to parse complex JSON data
-- How to create model classes
-- How to manage asynchronous programming using `Future`
-- How to implement search functionality
-- How to handle API errors
-- How to structure a professional Flutter project
 
-## 12. Conclusion
+
+## 11. Conclusion
 This project successfully demonstrates the integration of a public REST API into a Flutter application. The app dynamically fetches and displays real-time country data using JSON parsing and structured architecture.
