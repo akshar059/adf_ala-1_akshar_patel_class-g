@@ -2,8 +2,8 @@
 
 ## Student Details
 **Name:** Akshar Patel  
-**Enrollment Number:** [Your Enrollment Number]  
-**Course:** [Subject Name]  
+**Enrollment Number:** 20230905090502  
+**Course:** android development framework  
 **Assignment:** API Integration using Flutter  
 **Type:** Individual Assignment
 
